@@ -4,7 +4,7 @@ Meu nome é Guilherme e eu to na luta de virar um dev iOS bãozão.
 ## 👀 To interessado no lado maçã da força
 Desenvolvimento iOS, watchOS and stuff
 
-## 🌱 Aprendendo Swift e tentando não passar vergonha nas PRs (porém depende)
+## 🌱 Aprendendo Swift e tentando não passar vergonha nas PRs
 
 ---
 <p align = "center">
